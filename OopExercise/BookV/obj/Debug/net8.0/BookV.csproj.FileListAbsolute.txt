@@ -1,0 +1,14 @@
+C:\Users\Ayman\source\repos\BookV\BookV\bin\Debug\net8.0\BookV.exe
+C:\Users\Ayman\source\repos\BookV\BookV\bin\Debug\net8.0\BookV.deps.json
+C:\Users\Ayman\source\repos\BookV\BookV\bin\Debug\net8.0\BookV.runtimeconfig.json
+C:\Users\Ayman\source\repos\BookV\BookV\bin\Debug\net8.0\BookV.dll
+C:\Users\Ayman\source\repos\BookV\BookV\bin\Debug\net8.0\BookV.pdb
+C:\Users\Ayman\source\repos\BookV\BookV\obj\Debug\net8.0\BookV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ayman\source\repos\BookV\BookV\obj\Debug\net8.0\BookV.AssemblyInfoInputs.cache
+C:\Users\Ayman\source\repos\BookV\BookV\obj\Debug\net8.0\BookV.AssemblyInfo.cs
+C:\Users\Ayman\source\repos\BookV\BookV\obj\Debug\net8.0\BookV.csproj.CoreCompileInputs.cache
+C:\Users\Ayman\source\repos\BookV\BookV\obj\Debug\net8.0\BookV.dll
+C:\Users\Ayman\source\repos\BookV\BookV\obj\Debug\net8.0\refint\BookV.dll
+C:\Users\Ayman\source\repos\BookV\BookV\obj\Debug\net8.0\BookV.pdb
+C:\Users\Ayman\source\repos\BookV\BookV\obj\Debug\net8.0\BookV.genruntimeconfig.cache
+C:\Users\Ayman\source\repos\BookV\BookV\obj\Debug\net8.0\ref\BookV.dll
